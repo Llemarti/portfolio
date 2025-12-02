@@ -15,10 +15,10 @@ export default function Hero() {
                         transition={{ duration: 0.5 }}
                     >
                         <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-primary mb-6">
-                            Your Data Tells a Story—<span className="text-secondary">Let’s Discover It</span>
+                            Turn Hidden Patterns Into <span className="text-secondary">Game-Changing Insights</span>
                         </h1>
                         <p className="text-xl text-muted-foreground mb-8">
-                            From numbers to narratives, insights that drive impact
+                            Data analyst specializing in transforming complex datasets into clear, actionable strategies that drive smarter decisions and measurable results
                         </p>
                         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                             <Link
